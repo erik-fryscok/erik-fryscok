@@ -8,6 +8,8 @@
 
 - 👯 I'm looking to collaborate on **open-source tools and experiments for AI-assisted software development.**
 
+- 🤝 I'm looking for help with **learning how other developers integrate AI deeply into their workflows.**
+
 - 💬 Ask me about **AI-assisted development, developer experience, automation, and engineering leadership.**
 
 - 👨‍💻 All of my projects are available at **[erikfryscok.com](https://erikfryscok.com)**
